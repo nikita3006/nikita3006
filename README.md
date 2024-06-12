@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nikita Negi</h1>
-<h3 align="center">A passionate front-end developer</h3>
+<h3 align="center">Freelancer Front-End Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikita3006" alt="nikita3006" /></a> </p>
 
-- 🔭 I’m currently working on **Project Base learning**
+- 🔭 I’m currently working on **Project Base learning** and **working for clients**
 
 - 🌱 I’m currently learning **ReactJs,Firebase,Redux**
 
 - 💬 Ask me about **ReactJS,Javascript**
 
 - 📫 How to reach me **nikitanegi3011@gmail.com**
+  
+- 🖥️ Portfolio **https://portfolio-eight-beta-24.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
